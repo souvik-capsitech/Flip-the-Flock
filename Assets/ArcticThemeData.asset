@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5240efa5b2caa642b47efef2da3cc10, type: 3}
+  m_Name: ArcticThemeData
+  m_EditorClassIdentifier: 
+  cardSprites:
+  - {fileID: 21300000, guid: dbe23e0fd44b6cc42b5a0a8e6d395be6, type: 3}
+  - {fileID: 21300000, guid: 21376ea0b21fa9240ab88c0700e95934, type: 3}
+  - {fileID: 21300000, guid: 632ed485da9f1db4abff881bf7270fde, type: 3}
+  - {fileID: 21300000, guid: 3854879f5543c7a4dab5d9e88fed35ec, type: 3}
+  - {fileID: 21300000, guid: 4500921b66e30d24c8146bd40b016a80, type: 3}
+  - {fileID: 21300000, guid: ef2030c0b8c462f4195d440663b770fb, type: 3}
+  background: {fileID: 21300000, guid: e221d59bd57f73c4d88bb4d091122569, type: 3}
